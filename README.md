@@ -6,8 +6,9 @@
   <h4>Hybrid Cross-Scale Visual State-Space Model for Structural Crack Segmentation and Visual Integrity Assessment</h4>
 </div> 
 
-[![DOI](https://zenodo.org/badge/1233920047.svg)](https://doi.org/10.5281/zenodo.20205286)
-
+<div align="center">
+  [![DOI](https://zenodo.org/badge/1233920047.svg)](https://doi.org/10.5281/zenodo.20205286)
+</div> 
 This code is directly related to the manuscript we are currently submitting to The Visual Computer.
 
 ## TODO
