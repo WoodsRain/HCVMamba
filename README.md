@@ -91,7 +91,7 @@ If you find this repository useful for your research, please cite:
 This project is released under the Apache 2.0 license.
 
 ## Acknowledgment
-
+This work stands on the shoulders of the following **open-source projects**:
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
   <div>
     <a href="https://github.com/Karl1109/SCSegamba" target="_blank">SCSegamba</a> 
