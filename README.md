@@ -8,10 +8,16 @@
 
 This code is directly related to the manuscript we are currently submitting to The Visual Computer.
 
+## TODO
 
-## Abstract
+- [ ] Release pretrained checkpoints
+- [ ] Add a description of the method in README
+- [ ] Add visualization of experiment results in README
 
-Visual crack detection inherently serves as a typical research carrier for image analysis and feature representation, which aims to extract structural semantics and realize intelligent visual monitoring of surface defects. Yet slender and low-contrast defects challenge existing segmentation methods. Traditional approaches struggle with cross-scale structural consistency and region saliency under complex backgrounds. This work introduces a hybrid visual state-space framework that unifies long-range dependency modeling, cross-scale geometric consistency constraints, and detail-aware feature fusion. We design a cross-scale structure modulation module to stabilize topological propagation across scales and a mask-aware fusion block to enhance crack responses while suppressing noise. Experiments on three public datasets show clear gains over state-of-the-art models, with mIoU improvements up to 2.12%. The method improves structural stability and fine-detail recovery for real-world visual inspection.
+
+## License
+
+This project is released under the Apache 2.0 license.
 
 ## Getting Started
 
@@ -71,7 +77,7 @@ They will be released in future updates of this repository.
 
 ## Citation
 
-If you find this repository useful for your research, please cite:
+If you find our work useful for your research, please cite it.
 
 ```bibtex
 @article{sun2026hybrid,
@@ -81,14 +87,6 @@ If you find this repository useful for your research, please cite:
   year={2026}
 }
 ```
-
-## TODO
-
-- [ ] Release pretrained checkpoints
-
-## License
-
-This project is released under the Apache 2.0 license.
 
 ## Acknowledgment
 This work stands on the shoulders of the following **open-source projects**:
