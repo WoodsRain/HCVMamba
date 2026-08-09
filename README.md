@@ -18,11 +18,11 @@ This repository contains the official PyTorch implementation of HCVMamba. This w
 
 ## Method Overview
 HCVMamba is a visual state-space based network for accurate structural crack segmentation. It adopts a hybrid cross-scale design with two dedicated modules to enhance crack structure completeness and boundary clarity under multi-scale complex scenes.
-<div align="center"> <img src="assets/framework.png" width="800" alt="Overall architecture of HCVMamba"> <br> <em>Figure: Overall pipeline of the proposed HCVMamba.</em> </div>
+<div align="center"> <img src="images/Figure2_HCVMamba.png" width="800" alt="Overall architecture of HCVMamba"> <br> <em>Figure: Overall pipeline of the proposed HCVMamba.</em> </div>
 
 ## Qualitative Results
 <div align="center">
-  <img src="assets/qualitative_all.png" width="900" alt="Qualitative comparison results">
+  <img src="images/Figure5_result.png" width="900" alt="Qualitative comparison results">
 </div>
 The above figure shows the qualitative comparison results between HCVMamba and mainstream methods on DeepCrack, Crack500, and CrackMap datasets. It can be seen that our method has improved the continuity and boundary integrity of fine cracks.
 
