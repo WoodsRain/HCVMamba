@@ -1,0 +1,23 @@
+# ==============================================
+# HCVMamba Environment Dependencies
+# ==============================================
+
+# Note: PyTorch should be installed according to your CUDA version
+# Recommended command:
+# pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 -f https://download.pytorch.org/whl/torch_stable.html
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Core algorithm dependencies
+mamba-ssm==1.2.0
+timm
+lmdb
+mmengine
+numpy>=1.21.0
+opencv-python>=4.5.0
+
+# MMCV installation helper
+# Note: It is recommended to install mmcv-full via mim:
+# pip install -U openmim
+# mim install mmcv-full
+openmim
